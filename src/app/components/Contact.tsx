@@ -45,7 +45,7 @@ export function Contact() {
                 <MapPin className="text-amber-700 flex-shrink-0 mt-1" size={24} />
                 <div>
                   <h4 className="font-semibold mb-1">Address</h4>
-                  <p className="text-gray-600">123 Gourmet Avenue<br />New York, NY 10001</p>
+                  <p className="text-gray-600">Ocala, FL, United States</p>
                 </div>
               </div>
 

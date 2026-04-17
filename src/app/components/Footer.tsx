@@ -26,9 +26,9 @@ export function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-400">
-              <li>123 Gourmet Avenue</li>
-              <li>New York, NY 10001</li>
-              <li>(555) 123-4567</li>
+              <li>La-Cuisine</li>
+              <li>Ocala, FL, United States</li>
+              <li>(555) 123-1111</li>
               <li>reservations@lacuisine.com</li>
             </ul>
           </div>
