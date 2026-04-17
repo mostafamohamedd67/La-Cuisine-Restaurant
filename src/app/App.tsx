@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next"
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
@@ -8,6 +9,7 @@ import { Footer } from './components/Footer';
 
 export default function App() {
   return (
+    
     <div className="min-h-screen">
       <Header />
       <Hero />
@@ -16,6 +18,7 @@ export default function App() {
       <Gallery />
       <Contact />
       <Footer />
+      <Analytics />
     </div>
   );
 }
